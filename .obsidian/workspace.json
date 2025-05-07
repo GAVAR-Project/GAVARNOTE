@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "bebae4c925d7fd23",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6732aa37bdb1ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791abc926873868b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The subjects/The Other.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Other"
+            }
+          },
+          {
+            "id": "f38822ccc8e36943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The subjects/Taggert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taggert"
+            }
+          },
+          {
+            "id": "3f3123d6400879e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extended Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extended Intelligence"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4dffc11819edffb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751c3707618d86fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "639b6ae9022e58df",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b01888f1a648f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ffc51f9be2af7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42fc6f5e933d13b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "136346507c4c0f2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "126778a8acf0c9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade4fe5f71806526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd328f63309790b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "ad1265847c243263",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Soul.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Soul"
+            }
+          },
+          {
+            "id": "be54d1b1723ec2c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54e21104f819aa95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extended Intelligence.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Extended Intelligence"
+            }
+          },
+          {
+            "id": "bbcd4c762687ce39",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "54e21104f819aa95",
+  "lastOpenFiles": [
+    "test/The subjects/The Other.md",
+    "test/The subjects/Taggert.md",
+    "test/The subjects",
+    "test/The Gavar Project.md",
+    "test/Key to the Future.md",
+    "test/Gavar.md",
+    "test/Extended Intelligence.md",
+    "test",
+    "New folder",
+    "Untitled.canvas",
+    "Extended Intelligence.md",
+    "2025-05-07.md",
+    "The subjects/Taggert.md",
+    "The Gavar Project.md",
+    "Key to the Future.md",
+    "Gavar.md",
+    "The subjects/The Other.md",
+    "Untitled",
+    "The subjects",
+    "2025-05-02.md"
+  ]
+}
