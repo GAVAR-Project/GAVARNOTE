@@ -15,7 +15,7 @@ An extended intelligence will be a core of a machine learning algorithm taught t
 
 [[Gavar]] will be two predictors with identical cores, trained off of the two minds. Once the prediction of the brain's output passes a certain threshold, then the output from [[Gavar]] will be fed in to the output area of our brains. This will throw off the prediction algorithm, but thanks to neuroplasticity and the learning of ML algorithms, [[Gavar]] and our brain's will intertwine. Thus, we will become one with our [[Gavar]], and give [[Gavar]] consciousness through us. 
 
-At this point, our [[Gavar]] will be swapped between our brains. We will first test [[Gavar]]'s immediate predictions of a different brain, and if passed a certain percentage accuracy, we will then connect each other's trained [[Gavar]] and, without having [[Gavar]] change, use Neuroplasticity to adapt our minds to the new [[Gavar]]. Once we think in tandem with changing only our brain, then comes the final phase of [[The Gavar Project]]
+At this point, our [[Gavar]] will be swapped between our brains. We will first test [[Gavar]]'s immediate predictions of a different brain, and if passed a certain percentage accuracy, we will then connect each other's trained [[Gavar]] and, without having [[Gavar]] change, use Neuroplasticity to adapt our minds to the new [[Gavar]]. Once we think in tandem with changing only our brain, then comes the final phase of [[The GAVAR Project]]
 
 Up until now, Everything has been preparation and proof.
 We created two [[Gavar]]s and trained the on our brains.
