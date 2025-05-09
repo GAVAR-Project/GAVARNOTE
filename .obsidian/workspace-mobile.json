@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "The subjects/GAVAR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GAVAR"
             }
           }
         ]
@@ -165,5 +165,12 @@
     }
   },
   "active": "d0cfc92b74f83643",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Concepts/Extended Intelligence.md",
+    "Concepts/Neuroplasticity.md",
+    "Concepts",
+    "The GAVAR Project.md",
+    "The subjects/GAVAR.md",
+    "index.md"
+  ]
 }
