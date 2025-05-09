@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extended Intelligence.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extended Intelligence"
+              "title": "index"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extended Intelligence.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Extended Intelligence"
+              "title": "Outline of index"
             }
           },
           {
@@ -240,8 +240,8 @@
   },
   "active": "0615a566cf49f52f",
   "lastOpenFiles": [
-    "index.md",
     "Extended Intelligence.md",
+    "index.md",
     "Key to the Future.md",
     "Untitled.md",
     "Gavar.md",
