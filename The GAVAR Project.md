@@ -1,4 +1,4 @@
-What is the CORE of The GAVAR Project?
+What is the CORE of The [[GAVAR]] Project?
 
 Good question.
 

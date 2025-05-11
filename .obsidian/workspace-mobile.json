@@ -25,13 +25,18 @@
             "id": "44db1a42a48efb0b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The GAVAR Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The GAVAR Project"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,22 +179,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3866b7c1723a99d7",
+  "active": "44db1a42a48efb0b",
   "lastOpenFiles": [
-    "Possibilities/Age of Extreme Apathy.md",
     "Possibilities/Age of Apathy.md",
-    "Key to the Future.md",
+    "The GAVAR Project.md",
     "Possibilities/Age of Extended Intelligence.md",
+    "Key to the Future.md",
+    "Concepts/Extended Intelligence.md",
+    "Possibilities/Age of Extreme Apathy.md",
     "Possibilities/Age of Advanced Humanity.md",
     "Possibilities/Untitled",
     "Possibilities",
     "index.md",
     "Concepts/Neuroplasticity.md",
-    "Concepts/Extended Intelligence.md",
     "The subjects/GAVAR.md",
     "The subjects/Taggert.md",
     "The subjects/The Other.md",
-    "Concepts",
-    "The GAVAR Project.md"
+    "Concepts"
   ]
 }
