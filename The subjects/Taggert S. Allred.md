@@ -1,0 +1,1 @@
+I, Taggert S. Allred, take the role of one of the cognitive basses for [[GAVAR]] along with [[The Other]].

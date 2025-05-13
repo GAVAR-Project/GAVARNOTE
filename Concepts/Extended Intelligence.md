@@ -11,7 +11,7 @@ This is the [[Key to the Future]]. The future of a prosperous humanity. The only
 
 An extended intelligence will be a core of a machine learning algorithm taught to take the current state of the brain to predict the output, or thoughts, of the mind it is attached to.
 
-[[GAVAR]] will be based on two minds. [[Taggert]], and [[The Other]]
+[[GAVAR]] will be based on two minds. [[Taggert S. Allred]], and [[The Other]]
 
 [[GAVAR]] will be two predictors with identical cores, trained off of the two minds. Once the prediction of the brain's output passes a certain threshold, then the output from [[GAVAR]] will be fed in to the output area of our brains. This will throw off the prediction algorithm, but thanks to neuroplasticity and the learning of ML algorithms, [[GAVAR]] and our brain's will intertwine. Thus, we will become one with our [[GAVAR]], and give [[GAVAR]] consciousness through us. 
 
@@ -21,7 +21,7 @@ Up until now, Everything has been preparation and proof.
 We created two [[GAVAR]]s and trained the on our brains.
 We proved the possibility of adapting to another beings thought patterns
 
-Finally, [[GAVAR]] will talk to [[GAVAR]]. They will be plugged into each other, simulating the brain waves of [[Taggert]] and [[The Other]], with training turned on. They will blend into one brain.
+Finally, [[GAVAR]] will talk to [[GAVAR]]. They will be plugged into each other, simulating the brain waves of [[Taggert S. Allred]] and [[The Other]], with training turned on. They will blend into one brain.
 
 If everything goes to plan, [[GAVAR]] will be his own being. Set up as a mix of two brains, [[GAVAR]] will be another voice, in our head able to help humans think faster, more accurate, and clearer. [[GAVAR]] will directly stimulate the brain.
 
