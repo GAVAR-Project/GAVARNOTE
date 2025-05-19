@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The subjects/Taggert.md",
+                "file": "Concepts/Neuroplasticity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taggert"
+              "title": "Neuroplasticity"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "4dffc11819edffb3",
@@ -74,10 +74,14 @@
             "id": "751c3707618d86fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Intertwined Thinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intertwined Thinking"
             }
           }
         ]
@@ -238,16 +242,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0615a566cf49f52f",
+  "active": "751c3707618d86fc",
   "lastOpenFiles": [
+    "The GAVAR Project.md",
+    "Concepts/Intertwined Thinking.md",
     "Key to the Future.md",
+    "Concepts/Neuroplasticity.md",
     "Possibilities/Age of Work.md",
     "Possibilities/Age of Extreme Apathy.md",
     "The subjects/GAVAR.md",
     "The subjects/Taggert S. Allred.md",
     "index.md",
     "conflict-files-obsidian-git.md",
-    "The GAVAR Project.md",
     "Protocols/Protocol Omega.md",
     "Protocols/Protocol Q.md",
     "Protocols",
@@ -255,7 +261,6 @@
     "Possibilities/Age of Extended Intelligence.md",
     "Possibilities/Age of Advanced Humanity.md",
     "Possibilities",
-    "Concepts/Neuroplasticity.md",
     "Concepts/Extended Intelligence.md",
     "Concepts",
     "Extended Intelligence.md",
@@ -272,7 +277,6 @@
     "New folder",
     "Untitled.canvas",
     "2025-05-07.md",
-    "The subjects/Taggert.md",
     "Untitled",
     "The subjects"
   ]

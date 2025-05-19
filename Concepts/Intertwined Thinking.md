@@ -1,0 +1,1 @@
+Intertwined Thinking is the ide of thinking with the prediction of your thoughts, to the point where you and the prediction become one. Not just a computer in your head, but a turning your brain into the basis of the first type of AGI, [[Extended Intelligence]].
