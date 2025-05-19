@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3866b7c1723a99d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "8a0374c3fe87663a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols/Protocol Omega.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protocol Omega"
-            }
-          },
-          {
             "id": "d1267f11c417ad20",
             "type": "leaf",
             "state": {
@@ -51,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Neuroplasticity.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neuroplasticity"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,18 +174,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a0374c3fe87663a",
+  "active": "d1267f11c417ad20",
   "lastOpenFiles": [
     "index.md",
+    "Concepts/Neuroplasticity.md",
+    "Protocols/Protocol Omega.md",
     "The subjects/The Other.md",
     "Key to the Future.md",
     "The subjects/Taggert S. Allred.md",
-    "Concepts/Neuroplasticity.md",
     "The GAVAR Project.md",
     "The subjects/GAVAR.md",
     "Concepts/Extended Intelligence.md",
     "Protocols/Protocol Q.md",
-    "Protocols/Protocol Omega.md",
     "Protocols",
     "Possibilities/Age of Advanced Humanity.md",
     "Possibilities/Age of Extended Intelligence.md",
