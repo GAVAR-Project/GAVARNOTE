@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Possibilities/Age of Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Age of Work"
             }
           }
         ],
@@ -238,26 +238,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751c3707618d86fc",
+  "active": "0615a566cf49f52f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "index.md",
-    "The subjects/Taggert S. Allred.md",
+    "Key to the Future.md",
+    "Possibilities/Age of Work.md",
+    "Possibilities/Age of Extreme Apathy.md",
     "The subjects/GAVAR.md",
+    "The subjects/Taggert S. Allred.md",
+    "index.md",
+    "conflict-files-obsidian-git.md",
     "The GAVAR Project.md",
     "Protocols/Protocol Omega.md",
     "Protocols/Protocol Q.md",
     "Protocols",
     "Possibilities/Age of Apathy.md",
     "Possibilities/Age of Extended Intelligence.md",
-    "Possibilities/Age of Extreme Apathy.md",
     "Possibilities/Age of Advanced Humanity.md",
     "Possibilities",
     "Concepts/Neuroplasticity.md",
     "Concepts/Extended Intelligence.md",
     "Concepts",
     "Extended Intelligence.md",
-    "Key to the Future.md",
     "Untitled.md",
     "Gavar.md",
     "test/The subjects/The Other.md",
@@ -272,7 +273,6 @@
     "Untitled.canvas",
     "2025-05-07.md",
     "The subjects/Taggert.md",
-    "The subjects/The Other.md",
     "Untitled",
     "The subjects"
   ]
