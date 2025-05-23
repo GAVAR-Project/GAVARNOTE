@@ -1,1 +1,0 @@
-This is the counterpart to the [[Age of Apathy]]. Instead of Humanity falling to apathy and doing nothing, we instead replace the entire entertainment industry with Machine Learning, and now can only work. No art, no acting, nothing other than labor. This, one could argue, is almost as bad, if not worse, than the [[Age of Apathy]].
