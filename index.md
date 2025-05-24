@@ -9,6 +9,6 @@ The Gavar Project is the creation of the first [[Extended Intelligence]], [[GAVA
 
 [[Taggert S. Allred]] and [[The Other]] will create an [[Extended Intelligence]]. Its purpose will be to extend humanity's capabilities rather than replace them, a different aproach to how AI has been built so far.
 
-If you want to start at the core, view [[The GAVAR Project]]. Enjoy reading this barely organized notesheet!
+If you want to start at the core, view [[The GAVAR Project]]. Enjoy reading this barely organized note sheet!
 
 Or, you can do the lame thing and go back to the [Main Site](sour.local:3000).
