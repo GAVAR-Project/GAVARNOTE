@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Intertwined Thinking.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intertwined Thinking"
+              "title": "index"
             }
           }
         ]
@@ -244,8 +244,8 @@
   },
   "active": "751c3707618d86fc",
   "lastOpenFiles": [
-    "Possibilities/Age of Work.md",
     "Concepts/Intertwined Thinking.md",
+    "Possibilities/Age of Work.md",
     "The GAVAR Project.md",
     "Key to the Future.md",
     "Concepts/Neuroplasticity.md",
