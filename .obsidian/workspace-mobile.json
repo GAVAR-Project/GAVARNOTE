@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Intertwined Thinking.md",
+                "file": "Possibilities/Age of Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intertwined Thinking"
+              "title": "Age of Work"
             }
           },
           {
@@ -178,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bc1dcce925553ac",
+  "active": "d1267f11c417ad20",
   "lastOpenFiles": [
+    "Concepts/Intertwined Thinking.md",
     "/Possibilities/Age of Work.md",
     "Possibilities/Age of Work.md",
     "/Possibilities",
     "The GAVAR Project.md",
     "/The GAVAR Project.md",
     "/Concepts/Intertwined Thinking.md",
-    "Concepts/Intertwined Thinking.md",
     "/Concepts",
     "index.md",
     "Concepts/Neuroplasticity.md",
