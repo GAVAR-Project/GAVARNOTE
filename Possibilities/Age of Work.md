@@ -1,0 +1,1 @@
+The other possibility, in turn of the [[Age of Apathy]]. In this Age, humanity has automated all forms of entertainment, leaving only work and jobs. This is honestly worse than the [[Age of Apathy]], with creativity being destroyed and replaced by prediction.

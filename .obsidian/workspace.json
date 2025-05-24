@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Neuroplasticity.md",
+                "file": "Possibilities/Age of Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neuroplasticity"
+              "title": "Age of Work"
             }
           },
           {
@@ -245,11 +245,12 @@
   "active": "f38822ccc8e36943",
   "lastOpenFiles": [
     "index.md",
+    "Possibilities/Age of Work.md",
+    "Concepts/Neuroplasticity.md",
     "Concepts/Intertwined Thinking.md",
     "Possibilities/Age of Work.md",
     "The GAVAR Project.md",
     "Key to the Future.md",
-    "Concepts/Neuroplasticity.md",
     "Possibilities/Age of Extreme Apathy.md",
     "The subjects/GAVAR.md",
     "The subjects/Taggert S. Allred.md",
@@ -276,7 +277,6 @@
     "test",
     "New folder",
     "Untitled.canvas",
-    "2025-05-07.md",
     "Untitled",
     "The subjects"
   ]
